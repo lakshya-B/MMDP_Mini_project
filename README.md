@@ -2,17 +2,8 @@
 
 The dataset was created with the intention of developing a machine/deep learning model capable of analyzing images and audio simultaneously. Initially, the goal was to imitate filters commonly found in applications that suggest various associations based on facial features and voice characteristics. Specifically, the aim was to design a model that, given an individual’s image and voice, could suggest which  ”Straw Hat” member from the popular anime series ”One Piece” the person resembles the most.
 
- The creation of this dataset was motivated by a notable gap in existing solutions for simultaneously analyzing both images and audio inputs. 
+The creation of this dataset was motivated by a notable gap in existing solutions for simultaneously analyzing both images and audio inputs. 
 
-----
-
-## METADATA
-
-**Images**: 10 categories ×  150 images per category (approx) = 1500 images
- **Audio**: 10 categories x 5 minutes of audio per category (approx) =  50 minutes of audio
- 
- So, in total, there are approximately 1500 images and 50 minutes of audio in the dataset.
- 
 ----
 
 ## IMAGES
@@ -99,7 +90,17 @@ https://github.com/lakshya-B/MMDP_Mini_project/assets/95135448/ee66458d-cff5-45a
 
 https://github.com/lakshya-B/MMDP_Mini_project/assets/95135448/2e29383d-f446-4252-920e-4f96858081b6
 
+----
 
+## METADATA
+
+**Images**: 10 categories ×  140 images per category (approx) = 1400 images
+They are stored in JPEG/PNG formats.
+
+**Audio**: 10 categories x 5 minutes of audio per category (approx) =  50 minutes of audio
+ These audio files are in MP3 format.
+ 
+ So, in total, there are approximately 1500 images and 50 minutes of audio in the dataset.
 
 
 
