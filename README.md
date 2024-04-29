@@ -1,3 +1,20 @@
+## MOTIVATION
+
+The dataset was created with the intention of developing a machine/deep learning model capable of analyzing images and audio simultaneously. Initially, the goal was to imitate filters commonly found in applications that suggest various associations based on facial features and voice characteristics. Specifically, the aim was to design a model that, given an individual’s image and voice, could suggest which  ”Straw Hat” member from the popular anime series ”One Piece” the person resembles the most.
+
+ The creation of this dataset was motivated by a notable gap in existing solutions for simultaneously analyzing both images and audio inputs. 
+
+----
+
+## METADATA
+
+**Images**: 10 categories ×  150 images per category (approx) = 1500 images
+ **Audio**: 10 categories x 5 minutes of audio per category (approx) =  50 minutes of audio
+ 
+ So, in total, there are approximately 1500 images and 50 minutes of audio in the dataset.
+ 
+----
+
 ## IMAGES
 
 ### CLASSES
