@@ -36,7 +36,7 @@ Sharpness range: 32.121172770684566 - 4377.342894855657
 
 ## AUDIO
 
-## CLASSES
+### AUDIO SAMPLES
 
 Each class in the dataset consists of around 5 mins audio samples, mirroring the structure of the image classes. Below are examples of some audio samples.
 Here, I'm presenting a .mp4 file as a placeholder for the .mp3 files, as .mp3 files cannot be displayed directly on GitHub README.
