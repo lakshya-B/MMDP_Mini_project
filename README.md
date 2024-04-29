@@ -40,7 +40,8 @@ https://github.com/lakshya-B/MMDP_Mini_project/assets/95135448/4f537f0b-624d-419
 
 **ROBIN** : 
 
-https://github.com/lakshya-B/MMDP_Mini_project/assets/95135448/1bd39361-63ac-44b4-9ff3-625c317eeefe
+https://github.com/lakshya-B/MMDP_Mini_project/assets/95135448/8d4af4a5-20a2-481f-a3d0-ba005c2fb501
+
 
 **FRANKY** : 
 
@@ -48,9 +49,9 @@ https://github.com/lakshya-B/MMDP_Mini_project/assets/95135448/6c3e877d-c618-4f0
 
 **BROOK** : 
 
-https://github.com/lakshya-B/MMDP_Mini_project/assets/95135448/8d4af4a5-20a2-481f-a3d0-ba005c2fb501
+https://github.com/lakshya-B/MMDP_Mini_project/assets/95135448/ee66458d-cff5-45ae-b348-73dfd10e8ab3
 
-**JINMEI** : 
+**JINBEI** : 
 
 https://github.com/lakshya-B/MMDP_Mini_project/assets/95135448/2e29383d-f446-4252-920e-4f96858081b6
 
