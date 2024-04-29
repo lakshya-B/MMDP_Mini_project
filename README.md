@@ -1,11 +1,38 @@
 ## IMAGES
 
-## CLASSES
+### CLASSES
 
 The image displays the various classes contained within the dataset of images.
 ![Screenshot 2024-04-27 225117](https://github.com/lakshya-B/MMDP_Mini_project/assets/95135448/79a1ae76-e64a-48a8-9fb1-ff8ed41cb83f)
 
 ----
+
+### Balanced Image Dataset
+
+![Screenshot 2024-04-29 235624](https://github.com/lakshya-B/MMDP_Mini_project/assets/95135448/b74faf04-3246-4222-b20b-78db193b9a44)
+
+----
+
+### Analysing image size range
+
+Image size range: (238, 326) - (1500, 1500) 
+
+----
+
+### Analysing contrast range
+
+Contrast range: 31.288661997017506 - 87.86588966400447
+Mean contrast: 63.22949954668543
+Standard deviation of contrast: 18.836990074537194
+
+![Screenshot 2024-04-29 235858](https://github.com/lakshya-B/MMDP_Mini_project/assets/95135448/7f70a6dc-8c80-4e68-b55b-75c2ac0331ce)
+
+---- 
+
+#### Analyze brightness and sharpness
+
+Brightness range: 55.70891156462585 - 200.61805555555554
+Sharpness range: 32.121172770684566 - 4377.342894855657
 
 ## AUDIO
 
