@@ -102,6 +102,16 @@ They are stored in JPEG/PNG formats.
  
  So, in total, there are approximately 1500 images and 50 minutes of audio in the dataset.
 
+----
+
+## Maintenance
+
+The dataset will be updated accordingly to add new instances or delete instances as necessary. Updates will be communicated through ReadME.
+
+----
+
+## LICENSE
+
 
 
 
