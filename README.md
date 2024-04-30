@@ -112,6 +112,9 @@ The dataset will be updated accordingly to add new instances or delete instances
 
 ## LICENSE
 
+This project is licensed under the [Apache License, Version 2.0] - see the [LICENSE] file for details. You are free to use and modify the dataset for any purpose as long as you give appropriate credit to the source.
+
+
 
 
 
